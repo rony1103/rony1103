@@ -1,4 +1,4 @@
-👩‍⚕️👨‍⚕️ app_logo
+Medicare
 
 𝙰𝚋𝚘𝚞𝚝 𝚃𝚑𝚎 𝙿𝚛𝚘𝚓𝚎𝚌𝚝
 𝙸𝚝 𝚌𝚘𝚗𝚜𝚒𝚜𝚝𝚜 𝚘𝚏 𝚝𝚠𝚘 𝚜𝚎𝚐𝚖𝚎𝚗𝚝𝚜
@@ -69,9 +69,6 @@ HTML  CSS  JS FIREBASE JAVA  XML  ANDROID STUDIO
 └───Blood Donation Portal
 𝚂𝚗𝚊𝚙𝚜𝚑𝚘𝚝𝚜
 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝙰𝚙𝚙
-WhatsApp Image 2022-07-21 at 6 37 08 PM WhatsApp Image 2022-07-21 at 6 37 08 PM (1)
-
- WhatsApp.Video.2022-07-21.at.7.32.16.PM.mp4 
 𝚆𝚎𝚋𝚜𝚒𝚝𝚎 𝚒𝚖𝚊𝚐𝚎𝚜
 first
 
